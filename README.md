@@ -21,4 +21,4 @@
   <img align="center" alt="Arduino" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 </div>
 
-    ![Snake animation](https://github.com/LeoCosta7/LeoCosta7/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LeoCosta7/LeoCosta7/blob/output/github-contribution-grid-snake.svg)
