@@ -1,6 +1,6 @@
 ### Hi, I'm Leonardo Campelo!
 
-- 💻 I’m currently learning Javascript
+- 💻 I’m currently learning HTML, CSS and Javascript
 - 🧑‍🎓 I study at I.F.C.E
 - 🔧 I like to build idea 
 - 🐱 I love my cats
