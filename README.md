@@ -37,6 +37,11 @@ Backend Developer specializing in **C#/.NET**, with solid experience delivering 
   <img align="center" alt="SQL Server" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="RabbitMQ" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
   <img align="center" alt="Redis" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img align="center" alt="Docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Azure" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Vue.js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div><br>
 
 ---
